@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app_hw3</string>
+    <string-array name="area">
+    <item>台北市</item>
+    <item>新北市</item>
+    <item>基隆縣</item>
+    <item>桃園市</item>
+    <item>新竹市</item>
+    <item>苗栗縣</item>
+    <item>台中市</item>
+    <item>彰化縣</item>
+    <item>雲林縣</item>
+    <item>嘉義縣</item>
+    <item>台南市</item>
+    <item>高雄市</item>
+    <item>屏東縣</item>
+    <item>宜蘭縣</item>
+    <item>花蓮縣</item>
+    <item>台東縣</item>
+    </string-array>
+</resources>
